@@ -4,7 +4,7 @@ Full-stack e-commerce application designed to provide a seamless shopping experi
 
 ## Features
 
-- User Authentication (Sign Up, Sign In, Sign Out)
+- User Authentication (Sign Up, Sign In with OAuth, Sign Out)
 - Product Listings with detailed views
 - Shopping Cart functionality (With guest Cart)
 - Responsive design
