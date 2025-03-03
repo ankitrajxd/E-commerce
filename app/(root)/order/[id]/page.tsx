@@ -19,9 +19,9 @@ const OrderDetailsPage = async ({ params }: Props) => {
 
   const session = await auth();
 
-  if (session?.user.id !== order.userId) {
+  if (session?.user.id !== order.userId && session?.user.role !== 'admin') {
     return (
-      <div className="grid place-content-center h-full">Not Authroized</div>
+      <div className="grid place-content-center h-full">Not Authorized</div>
     );
   }
 
