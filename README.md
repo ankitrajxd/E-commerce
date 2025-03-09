@@ -6,12 +6,12 @@ Full-stack e-commerce application designed to provide a seamless shopping experi
 
 - User Authentication (Sign Up, Sign In with OAuth, Sign Out)
 - Product Listings with detailed views
-- Shopping Cart functionality (With guest Cart)
-- Responsive design
+- Shopping Cart functionality (With guest Cart).
+- Responsive design.
 - Payment Gateway (razorpay)
-- Admin Panel (CRUD operations for products and Users)
-- Dynamic Search, Sort, and Filter product/users/orders
-- Pagination for products/users/orders
+- Admin Panel (CRUD operations for products and Users).
+- Dynamic Search, Sort, and Filter product/users/orders.
+- Pagination for products/users/orders.
 
 # Live - [Demo](https://e-commerce-rho-eight-65.vercel.app/)
 
